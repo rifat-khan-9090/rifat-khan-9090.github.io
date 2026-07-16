@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rifat Khan - Portfolio</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: center;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 50px 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        h1 { 
+            color: #2c3e50; 
+            margin-bottom: 10px;
+        }
+        p { 
+            font-size: 18px; 
+            line-height: 1.6; 
+            color: #555;
+        }
+        .btn {
+            display: inline-block;
+            margin-top: 25px;
+            padding: 12px 25px;
+            background: #2980b9;
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: bold;
+            transition: background 0.3s ease;
+        }
+        .btn:hover { 
+            background: #1c5980; 
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>হ্যালো, আমি রিফাত খান! 👋</h1>
+        <p>আমার নতুন পোর্টফোলিও ওয়েবসাইটে আপনাকে স্বাগতম। আমি বর্তমানে গিটহাব পেজেস ব্যবহার করে হোস্টিং করা শিখছি। এটি আমার প্রথম লাইভ ওয়েবসাইট!</p>
+        <a href="https://github.com/rifat-khan-9090" class="btn" target="_blank">আমার গিটহাব প্রোফাইল দেখুন</a>
+    </div>
+</body>
+</html>  
